@@ -168,7 +168,7 @@ model_evaluation_results.csv
 ### 1 克隆项目
 
 ```
-git clone https://github.com/用户名/wine-quality-ml-analysis.git
+git clone https://github.com/ICHyixi/wine-quality-ml-analysis.git
 ```
 
 ---
